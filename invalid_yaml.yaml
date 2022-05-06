@@ -1,0 +1,3 @@
+is_a_test:
+      this_string_makes_the_yaml_invalid
+  is_a_test:
